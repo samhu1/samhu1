@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for coding 
 - 🌱 I’m currently learning advanced algorithms and machine learning techniques.
 - 👯 I’m looking to collaborate on open source projects related to data science and web development.
 - 💬 Ask me about Python, JavaScript, and Docker.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [samuelhu@umich.edu](mailto:samuelhu@umich.edu)
 - ⚡ Fun fact: I enjoy hiking and exploring the great outdoors.
 
 ## Skills
@@ -25,8 +25,6 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for coding 
 - Flask
 
 ### Tools and Technologies
-- Docker
-- Kubernetes
 - Git
 - AWS
 
@@ -41,7 +39,7 @@ A comprehensive data analysis pipeline using Python and Pandas to clean, process
 A full-stack e-commerce website built with React and Node.js, featuring user authentication, product management, and payment processing.
 
 ### Project 3: Machine Learning Model
-Developed a machine learning model to predict customer churn using scikit-learn and TensorFlow.
+Developed a machine learning model to predict the next big topic using scikit-learn.
 
 ## GitHub Stats
 
@@ -49,7 +47,7 @@ Developed a machine learning model to predict customer churn using scikit-learn 
 
 ## Contact Me
 
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/samhu1).
+Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-hu).
 
 Thanks for visiting my profile!
 
