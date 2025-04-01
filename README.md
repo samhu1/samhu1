@@ -1,67 +1,63 @@
 # Hi there, I'm Sam! 👋
 
-Welcome to my GitHub profile. I'm a passionate developer with a love for coding and solving complex problems. Here's a bit more about me:
+Welcome to my GitHub profile. I’m a software engineer and aspiring tech entrepreneur based in NYC. I’m passionate about building meaningful software—especially AI-powered tools that help people save time and improve their lives.
 
-## About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning advanced algorithms and machine learning techniques.
-- 👯 I’m looking to collaborate on open source projects related to data science and web development.
-- 💬 Ask me about Python, JavaScript, and Docker.
-- 📫 How to reach me: [samuelhu@umich.edu](mailto:samuelhu@umich.edu)
-- ⚡ Fun fact: I enjoy hiking and exploring the great outdoors.
+- 🎓 CS @ University of Michigan (Graduating Dec 2024)
+- 💼 SWE Intern @ Ford (2023 & 2024) – Built full-stack apps, worked with Google Cloud & ML tools
+- 🔧 Currently building:  
+  - **CookEase** – AI-powered, voice-guided cooking assistant  
+  - **AI Lab Simulation** – Stardew Valley-style sim with LLM agents (React + FastAPI + WebSocket)  
+  - **Podcast Summarizer** – Spotify + Whisper + LLaMA to help you discover new episodes faster  
+  - **Digital Declutter Agent** – AI tool to organize your Mac desktop and digital clutter  
+- ✍️ Also creating startup founder vlogs + building AI-native social media automation  
+- 📍 NYC-based | Startup vibes | Big on tech that saves time
 
-## Skills
+## 🧠 Interests
+
+- 🧩 AI Agents & LLMs  
+- 🕹️ Simulations & interactive UI  
+- 🧠 Personal Knowledge Management  
+- 🌍 Building real-time, useful tools that feel fun  
+- 🛠️ Startups, systems design, and Web3 curiosity
+
+## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- C++
-- Java
+- Python | JavaScript | TypeScript | C++ | Java | Swift
 
-### Frameworks and Libraries
-- React
-- Node.js
-- Django
-- Flask
+### Frameworks & Libraries
+- React | FastAPI | Django | Node.js | Tailwind | Flask
 
-### Tools and Technologies
-- Git
-- AWS
+### Tools & Platforms
+- Docker | Git | AWS | Firebase | GCP | PostgreSQL | Whisper | Ollama
 
-## Projects
+### ML & AI
+- OpenAI API | LangChain | LLaMA | Vector DBs | Prompt Engineering | Document OCR
 
-Here are some of my notable projects:
+## 🧪 Projects
 
-### Project 1: Data Analysis Pipeline
-A comprehensive data analysis pipeline using Python and Pandas to clean, process, and visualize data.
+### 🎮 AI Lab Simulation  
+Stardew-Valley-style simulation of an AI research lab with autonomous LLM agents (PhDs, postdocs, professors). Real-time task logs, memory systems, and agent plans rendered in a pixel-art UI.
 
-### Project 2: E-commerce Website
-A full-stack e-commerce website built with React and Node.js, featuring user authentication, product management, and payment processing.
+### 🥘 CookEase  
+Your AI sous-chef. Recommends recipes based on what’s in your fridge, and walks you through step-by-step with voice and visual instructions—hands-free cooking with smart recipe adaptation.
 
-### Project 3: Machine Learning Model
-Developed a machine learning model to predict the next big topic using scikit-learn.
+### 🧠 Podcast Summarizer  
+Pulls podcast audio via Spotify API, transcribes with Whisper, and uses LLaMA to summarize & tag—making it easier to explore new podcasts without wasting time.
 
-## GitHub Stats
+### 📁 Digital Declutter Agent  
+AI assistant that auto-organizes your Mac desktop—sorts downloads, files, screenshots, tabs, and windows with semantic understanding.
+
+## 📈 GitHub Stats
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhu1&show_icons=true&theme=radical)
 
-## Contact Me
+## 📫 Let's Connect
 
-Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-hu).
+- Email: [samuelhu@umich.edu](mailto:samuelhu@umich.edu)  
+- LinkedIn: [linkedin.com/in/samuel-hu](https://www.linkedin.com/in/samuel-hu)  
+- YouTube: Coming soon – startup vlogs & builder content  
 
-Thanks for visiting my profile!
-
-<!--
-**samhu1/samhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for checking out my work! Feel free to reach out or follow my journey 🚀
