@@ -8,9 +8,6 @@ Welcome to my GitHub profile. I’m a software engineer and aspiring tech entrep
 - 💼 SWE Intern @ Ford (2023 & 2024) – Built full-stack apps, worked with Google Cloud & ML tools
 - 🔧 Currently building:  
   - **CookEase** – AI-powered, voice-guided cooking assistant  
-  - **AI Lab Simulation** – Stardew Valley-style sim with LLM agents (React + FastAPI + WebSocket)  
-  - **Podcast Summarizer** – Spotify + Whisper + LLaMA to help you discover new episodes faster  
-  - **Digital Declutter Agent** – AI tool to organize your Mac desktop and digital clutter  
 - ✍️ Also creating startup founder vlogs + building AI-native social media automation  
 - 📍 NYC-based | Startup vibes | Big on tech that saves time
 
@@ -38,17 +35,9 @@ Welcome to my GitHub profile. I’m a software engineer and aspiring tech entrep
 
 ## 🧪 Projects
 
-### 🎮 AI Lab Simulation  
-Stardew-Valley-style simulation of an AI research lab with autonomous LLM agents (PhDs, postdocs, professors). Real-time task logs, memory systems, and agent plans rendered in a pixel-art UI.
-
 ### 🥘 CookEase  
 Your AI sous-chef. Recommends recipes based on what’s in your fridge, and walks you through step-by-step with voice and visual instructions—hands-free cooking with smart recipe adaptation.
 
-### 🧠 Podcast Summarizer  
-Pulls podcast audio via Spotify API, transcribes with Whisper, and uses LLaMA to summarize & tag—making it easier to explore new podcasts without wasting time.
-
-### 📁 Digital Declutter Agent  
-AI assistant that auto-organizes your Mac desktop—sorts downloads, files, screenshots, tabs, and windows with semantic understanding.
 
 ## 📈 GitHub Stats
 
